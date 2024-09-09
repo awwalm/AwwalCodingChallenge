@@ -50,7 +50,7 @@ python manage.py runserver
 ```
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/67423428/173231452-80659a67-484b-4816-bb5e-cd4a3108b8ca.png)
+![image](https://github.com/user-attachments/assets/889210fd-bfc9-47c0-ae61-c3867c871aa0)
 
 ![image](https://user-images.githubusercontent.com/67423428/107130231-6af39280-6906-11eb-9c3a-7e93ae982161.png)
 
